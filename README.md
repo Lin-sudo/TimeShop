@@ -14,11 +14,7 @@
 3.  用金币换取娱乐时间
 4.  上拉还可以进入二楼查看当天的运势噢
 
-<img src="http://lin-sudo.gitee.io/image/jiesao1.jpg" alt="a" style="zoom:25%;" />
-
-<img src="http://lin-sudo.gitee.io/image/jiesao2.jpg" alt="b" style="zoom:25%;" />
-
-<img src="http://lin-sudo.gitee.io/image/jiesao3.jpg" alt="c" style="zoom:25%;" />
+![a](http://lin-sudo.gitee.io/image/jiesao-1.png)
 
 #### Addition
 
