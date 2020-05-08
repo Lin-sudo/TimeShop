@@ -3,20 +3,26 @@
 #### Description
 一款学习游戏化App
 
-#### Software Architecture
-Software architecture description
-
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+[点击这里下载](https://gitee.com/Lin-sudo/TimeShop/releases)
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  您可以每做完一项学习任务后点击+1金币
+2.  或完成一项每周计划
+3.  用金币换取娱乐时间
+4.  上拉还可以进入二楼查看当天的运势噢
+
+<img src="http://lin-sudo.gitee.io/image/jiesao1.jpg" alt="a" style="zoom:25%;" />
+
+<img src="http://lin-sudo.gitee.io/image/jiesao2.jpg" alt="b" style="zoom:25%;" />
+
+<img src="http://lin-sudo.gitee.io/image/jiesao3.jpg" alt="c" style="zoom:25%;" />
+
+#### Addition
+
+如果有任何好的想法和建议可以与作者联系2607131423@qq.com
 
 #### Contribution
 
