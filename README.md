@@ -22,7 +22,13 @@
 
 #### Addition
 
-如果有任何好的想法和建议可以与作者联系2607131423@qq.com
+如果有任何好的想法和建议可以添加issues
+
+查看更详细的介绍
+
+简书: https://www.jianshu.com/p/a93c4f15143a
+
+CSDN: https://blog.csdn.net/weixin_43746383/article/details/106017376
 
 #### Contribution
 
