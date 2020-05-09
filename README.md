@@ -18,7 +18,7 @@
 3.  用金币换取娱乐时间
 4.  上拉还可以进入二楼查看当天的运势噢
 
-![a](http://lin-sudo.gitee.io/image/jiesao-1.png)
+![a](https://s1.ax1x.com/2020/05/09/YQxhge.png)
 
 #### Addition
 
