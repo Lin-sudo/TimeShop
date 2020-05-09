@@ -1,7 +1,7 @@
 # TimeShop
 
 #### Description
-这是一款学习游戏化的App，新手做的，是菜鸟在Github提交的第一个项目……
+这是一款学习游戏化的App，新手做的，是菜鸟在Git提交的第一个项目……
 
 参考了小时候“大富翁”的游戏规则，结合心理学上的习惯回路，建立良好的正向反馈有助于我们爱上学习。
 
@@ -9,7 +9,7 @@
 
 #### Installation
 
-[点击这里下载](https://github.com/Lin-sudo/TimeShop/releases)
+[点击这里下载](https://gitee.com/Lin-sudo/TimeShop/releases)
 
 #### Instructions
 
