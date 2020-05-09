@@ -9,7 +9,7 @@
 
 #### Installation
 
-[点击这里下载](https://gitee.com/Lin-sudo/TimeShop/releases)
+[点击这里下载](https://github.com/Lin-sudo/TimeShop/releases)
 
 #### Instructions
 
